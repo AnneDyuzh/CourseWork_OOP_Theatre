@@ -84,12 +84,7 @@ namespace Theatre
             "2",
             "3",
             "4",
-            "5",
-            "6",
-            "7",
-            "8",
-            "9",
-            "10"});
+            "5"});
             this.raiting.Location = new System.Drawing.Point(222, 348);
             this.raiting.MaxDropDownItems = 2;
             this.raiting.Name = "raiting";
